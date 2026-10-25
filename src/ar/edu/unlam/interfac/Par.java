@@ -8,7 +8,8 @@ public class Par {
 		El número x es Par: true | false 
 		Siendo x el valor que contenga la variable entera y true o false debe contener el valor correcto si es 
 		que el número es divisible por 2 o no. */
-		
+		System.out.println("hello");
+		System.out.println("HOla mi nombre es nancy");
 		int numero=3;
 		int cuenta= numero%2;
 		boolean esPar= cuenta==0;
